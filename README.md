@@ -35,6 +35,8 @@ R_script_chao.txt - script for data analysis
 
 Taxon_diversity.zip
 
+Contains files:
+
 23.shared - table of the representativeness of the OTU of the species rank in the sample when analyzing the V2-V3 regions 16S rRNA
 
 34.shared - table of the representativeness of the OTU of the species rank in the sample when analyzing the V3-V4 regions 16S rRNA
